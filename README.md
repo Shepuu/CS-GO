@@ -1,5 +1,5 @@
-# Shepuu [![Build Status](https://travis-ci.org/ts-x/TSX-RP.svg?branch=master)](https://travis-ci.org/ts-x/TSX-RP)
-GitHUB du projet roleplay de la team [ts-x.eu][1]
+# Shepuu [![Build Status](https://travis-ci.org/Shepuu/CS-GO#)](https://travis-ci.org/Shepuu/CS-GO)
+GitHub des serveurs CS:GO de la team [shepuu.fr][1]
 
 **Besoin d'une mise à jour de l'API?** Ouvrez un [rapport sur github][3] !
 
