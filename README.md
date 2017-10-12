@@ -1,7 +1,7 @@
 # Shepuu
 GitHub des serveurs CS:GO de la team shepuu.fr
 
-**Besoin d'une mise à jour de l'API?** Ouvrez un [rapport sur github][3] !
+**Besoin d'une mise à jour de l'API?** Ouvrer un rapport !
 
 ## Bugs 
  Merci de poster les problèmes liés aux serveurs ici : https://www.shepuu.fr; 
